@@ -184,7 +184,7 @@ render()
 			[
 				[0,0,h_pareti],[larg_supporto,0,h_pareti],
 				[0,prof_supporto,h_pareti],[larg_supporto,prof_supporto,h_pareti],
-				[0,0,h_pareti-larg_supporto]
+				[0,0,h_pareti-2*larg_supporto]
 			],
 			faces =
 			[
@@ -199,7 +199,7 @@ render()
 				[
 					[0,0,h_pareti],[larg_supporto,0,h_pareti],
 					[0,prof_supporto,h_pareti],[larg_supporto,prof_supporto,h_pareti],
-					[0,0,h_pareti-larg_supporto]
+					[0,0,h_pareti-2*larg_supporto]
 				],
 				faces =
 				[
